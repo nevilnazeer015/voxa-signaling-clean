@@ -1,0 +1,12 @@
+{
+  "name": "voxa-signaling-clean",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "signaling-server.js",
+  "scripts": {
+    "start": "node signaling-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
